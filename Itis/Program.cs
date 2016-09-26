@@ -11,6 +11,7 @@ namespace Itis
         static void Main(string[] args)
         {
             Console.WriteLine("Hello from local!");
+            Console.WriteLine("3");
         }
     }
 }
